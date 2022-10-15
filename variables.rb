@@ -6,4 +6,7 @@ sheild_type = "Lv.1 Terminal Tome"
 electro-mana_total = 1000
 hitpoint_total = 500
 spell_library_capacity = 4
-
+hours_played = 1.5
+kilometers_traveled = 46.7
+damage_dealt = 2343.9
+damage_taken = 1001.7
